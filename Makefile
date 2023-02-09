@@ -7,4 +7,3 @@ ACS: ACS.c
 .PHONY clean:
 clean:
 	-rm -rf *.o *.exe
-
